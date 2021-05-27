@@ -1,7 +1,9 @@
 # PractiseApplication
 
 First Session -> 19-05-2021
-covered topic are: SwiftBasic programming -> these work are commit in swiftplayground (swiftconcepts)->bitbucket(https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
+covered topic are: SwiftBasic programming -> these work are commit in swiftplayground (swiftconcepts)->bitbucket(https://bitbucket.org/NagendranSelvaraj/swiftconcepts/src/master/)
+
+swiftBasicProgramming - >(https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 
 Second Session -> 20-05-2021
 covered topics are: ViewController lifecycle and Foundation library(https://developer.apple.com/documentation/uikit)
